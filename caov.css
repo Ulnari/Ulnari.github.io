@@ -15,7 +15,7 @@ body {
 /* Header (Hero Section) */
 header {
   position: relative;
-  height: 66vh; /* Roughly 2/3 of viewport height */
+  height: 76vh; /* percent of viewport height */
   display: flex;
   flex-direction: column;
   justify-content: center;
